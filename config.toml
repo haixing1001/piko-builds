@@ -1,7 +1,7 @@
 enable-magisk-update = false
 
 patches-source = "crimera/piko"
-patches-version = "v2.0.0-dev.13"
+patches-version = "dev"
 cli-version = "v4.6.0"
 integrations-source = "crimera/revanced-integrations"
 rv-brand = "Piko"
