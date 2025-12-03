@@ -7,13 +7,13 @@ rv-brand = "Piko"
 [twitter]
 build-mode = "apk"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-version = "11.32.0-release.0"
+version = "11.38.0-release.0"
 included-patches = "'Hide Banner' 'Hide Live Threads' 'Disable chirp font' 'Hide Community Notes' 'Hide FAB' 'Hide FAB Menu Buttons' 'Bring back twitter' 'Custom sharing domain' 'Customize profile tabs' 'Hide promote button' 'Force enable translate' 'Add ability to copy media link' 'Customize Navigation Bar items' 'Hide promote button' 'Force enable translate' 'Delete from database'"
 excluded-patches = "'Dynamic color'"
 
 [x]
 build-mode = "apk"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
-version = "11.32.0-release.0"
+version = "11.38.0-release.0"
 included-patches = "'Hide Banner' 'Hide Live Threads' 'Disable chirp font' 'Hide Community Notes' 'Hide FAB' 'Hide FAB Menu Buttons' 'Custom sharing domain' 'Customize profile tabs' 'Hide promote button' 'Force enable translate' 'Add ability to copy media link' 'Customize Navigation Bar items' 'Hide promote button' 'Force enable translate' 'Delete from database'"
 excluded-patches = "'Dynamic color'"
